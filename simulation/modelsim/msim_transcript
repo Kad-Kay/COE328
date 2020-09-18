@@ -1,0 +1,18 @@
+# do lab6_run_msim_gate_verilog.do 
+# if {[file exists gate_work]} {
+# 	vdel -lib gate_work -all
+# }
+# vlib gate_work
+# vmap work gate_work
+# Copying /CMC/tools/altera/13.0sp1/modelsim_ae/linuxaloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied /CMC/tools/altera/13.0sp1/modelsim_ae/linuxaloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# 
+# vlog -vlog01compat -work work +incdir+. {lab6.vo}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module intelcoreiBOSS
+# 
+# Top level modules:
+# 	intelcoreiBOSS
+# 

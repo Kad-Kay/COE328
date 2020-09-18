@@ -1,0 +1,26 @@
+m255
+K3
+13
+cModel Technology
+Z0 d/home/student2/s33kassa/coe328/lab6/simulation/modelsim
+vintelcoreiBOSS
+!i10b 1
+!s100 f0R_nEBDHK=V`]mU?Vk>?2
+IY^Jg0ncn[nlTj?8@QfEoI0
+VLz2Z;OnFQVm7GBHd@H3XS2
+Z1 d/home/student2/s33kassa/coe328/lab6/simulation/modelsim
+w1480525155
+8lab6.vo
+Flab6.vo
+L0 31
+OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1480525353.919386
+!s107 lab6.vo|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+.|lab6.vo|
+!s101 -O0
+o-vlog01compat -work work -O0
+!s92 -vlog01compat -work work +incdir+. -O0
+nintelcorei@b@o@s@s
